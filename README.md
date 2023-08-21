@@ -1,3 +1,5 @@
+[![CI](https://github.com/sangnguyens/lab-cicd/actions/workflows/cicd.yml/badge.svg)](https://github.com/sangnguyens/lab-cicd/actions/workflows/cicd.yml)
+
 ## Lab 1-Introduction to Continuous Integration
 
 ### Tasks
